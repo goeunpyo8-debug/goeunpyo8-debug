@@ -4,15 +4,15 @@
 
 ![헤더이미지](https://capsule-render.vercel.app/api?type=rounded&height=300&color=gradient&text=새로운%20걸%20배우는%20고은표)
 
-![HIT](<[(https://hits.sh/github.com/goeunpyo8-debug/goeunpyo8-debug.git.svg?style=flat-square&color=e12a19)](https://hits.sh/github.com/goeunpyo8-debug/goeunpyo8-debug.git/)>)
+![![Hits](https://hits.sh/github.com/goeunpyo8-debug/goeunpyo8-debug.git.svg?style=flat-square&color=e12a19)](https://hits.sh/github.com/goeunpyo8-debug/goeunpyo8-debug.git/)
 
 ### 🦾 Skills
 
 **🧑‍💻 Lang and Frameworks**
-![CSS3](https://img.shields.io/badge/css3-1572B6.svg?&style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white)![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-31A8FF.svg?&style=for-the-badge&logo=adobephotoshop&logoColor=white)![HTML5](https://img.shields.io/badge/html5-E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-1572B6.svg?&style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-31A8FF.svg?&style=for-the-badge&logo=adobephotoshop&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
 
 **🛠️ Infra and Tools**
-![Sourcetree](https://img.shields.io/badge/sourcetree-0052CC.svg?&style=for-the-badge&logo=sourcetree&logoColor=white)![Zoom](https://img.shields.io/badge/zoom-0B5CFF.svg?&style=for-the-badge&logo=zoom&logoColor=white)![Discord](https://img.shields.io/badge/discord-5865F2.svg?&style=for-the-badge&logo=discord&logoColor=white)![GitHub](https://img.shields.io/badge/github-181717.svg?&style=for-the-badge&logo=github&logoColor=white)
+![Sourcetree](https://img.shields.io/badge/sourcetree-0052CC.svg?&style=for-the-badge&logo=sourcetree&logoColor=white) ![Zoom](https://img.shields.io/badge/zoom-0B5CFF.svg?&style=for-the-badge&logo=zoom&logoColor=white) ![Discord](https://img.shields.io/badge/discord-5865F2.svg?&style=for-the-badge&logo=discord&logoColor=white) ![GitHub](https://img.shields.io/badge/github-181717.svg?&style=for-the-badge&logo=github&logoColor=white)
 
 <!--
 **goeunpyo8-debug/goeunpyo8-debug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
