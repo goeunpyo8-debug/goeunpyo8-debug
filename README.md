@@ -4,7 +4,7 @@
 
 ![헤더이미지](https://capsule-render.vercel.app/api?type=rounded&height=300&color=gradient&text=새로운%20걸%20배우는%20고은표)
 
-[![Hits](https://hits.sh/github.com/goeunpyo8-debug/goeunpyo8-debug.git.svg?style=flat-square&color=e12a19)](https://hits.sh/github.com/goeunpyo8-debug/goeunpyo8-debug.git/)
+![Hits](https://hits.sh/github.com/goeunpyo8-debug/goeunpyo8-debug.git.svg?style=flat-square&color=e12a19)(https://hits.sh/github.com/goeunpyo8-debug/goeunpyo8-debug.git/)
 
 ### 🦾 Skills
 
