@@ -1,6 +1,8 @@
 ## 프로필
 
-### 안녕하세요! 새로걸 추구하는 남자입니다!
+### 안녕하세요! 새로운걸 추구하는 남자입니다!
+
+![헤더이미지](https://capsule-render.vercel.app/api?type=rounded&height=300&color=gradient&text=새로운%20걸%20배우는%20고은표)
 
 <!--
 **goeunpyo8-debug/goeunpyo8-debug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
