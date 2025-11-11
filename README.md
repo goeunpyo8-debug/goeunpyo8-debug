@@ -4,6 +4,10 @@
 
 ![헤더이미지](https://capsule-render.vercel.app/api?type=rounded&height=300&color=gradient&text=새로운%20걸%20배우는%20고은표)
 
+![HIT](<[![히트](https://hits.sh/github.com/goeunpyo8-debug/goeunpyo8-debug.git.svg?style=flat-square&color=e12a19)](https://hits.sh/github.com/goeunpyo8-debug/goeunpyo8-debug.git/)>)
+![solved]([![Solved.ac
+프로필](http://mazassumnida.wtf/api/generate_badge?boj={handle})](https://solved.ac/{handle}))
+
 <!--
 **goeunpyo8-debug/goeunpyo8-debug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
