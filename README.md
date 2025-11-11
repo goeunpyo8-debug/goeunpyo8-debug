@@ -4,7 +4,7 @@
 
 ![헤더이미지](https://capsule-render.vercel.app/api?type=rounded&height=300&color=gradient&text=새로운%20걸%20배우는%20고은표)
 
-[![Solved.ac goeunpyo8-debug](http://mazassumnida.wtf/api/v2/generate_badge?boj={ruby})](https://solved.ac/{goeunpyo})
+[![Solved.ac goeunpyo](http://mazassumnida.wtf/api/v2/generate_badge?boj={goeunpyo})](https://solved.ac/{goeunpyo})
 
 [![Hits](https://hits.sh/github.com/goeunpyo8-debug/goeunpyo8-debug.git.svg?view=today-total&style=plastic&color=e12a19)](https://hits.sh/github.com/goeunpyo8-debug/goeunpyo8-debug.git/)
 
