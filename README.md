@@ -1,4 +1,6 @@
-## Hi there 👋
+## 프로필
+
+### 안녕하세요! 새로걸 추구하는 남자입니다!
 
 <!--
 **goeunpyo8-debug/goeunpyo8-debug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
